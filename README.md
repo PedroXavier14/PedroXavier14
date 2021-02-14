@@ -1,6 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
 ## 💻 Technologies & Tools
+- JavaScript
+- Node.js
+- React
+- MongoDB
+- Docker
+## Networks
+[LinkedIn](https://www.linkedin.com/in/pedro-m-xavier/) 
 
 <!--
 **PedroXavier14/PedroXavier14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
